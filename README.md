@@ -2,7 +2,7 @@
 ## Introduction
 The extent to which an ecosystem can be interconnected is a determining factor in the different species survival in fragmented landscapes. Therefore, understanding how ecological connectivity is changing is important in order to maintaining an ecosystem's biodiversity.
 
-Rising sea levels are a major threat to coastal ecosystems and islands biodiversity, the rate of exploitable land will decrease considerably. My work is an attempt to analyze and understand the ecological fragmentation phenomenon and its effects on species migration.
+Rising sea levels are a major threat to coastal ecosystems and islands biodiversity, the rate of available land will decrease considerably. My work is an attempt to analyze and understand the ecological fragmentation phenomenon and its effects on species migration.
 ## Major points
 • Mathematical model to simulate the ecological fragmentation phenomenon.
 
