@@ -4,10 +4,11 @@ The extent to which an ecosystem can be interconnected is a determining factor i
 
 Rising sea levels are a major threat to coastal ecosystems and islands biodiversity, the rate of exploitable land will decrease considerably. My work is an attempt to analyze and understand the ecological fragmentation phenomenon and its effects on species migration.
 ## Major points
-  Mathematical model to simulate the ecological fragmentation phenomenon.
-  Demonstration and analysis of the phase transition behavior.
-  Numerical determination of the percolation threshold.
-  Verification of the consistency of the results obtained with the theoretical data
+
+1.Mathematical model to simulate the ecological fragmentation phenomenon.
+2.Demonstration and analysis of the phase transition behavior.
+3.Numerical determination of the percolation threshold.
+4.Verification of the consistency of the results obtained with the theoretical data.
 
 ### Mathematical approach
 The Percolation Theory is one of the theoretical tools used to study and model individuals and populations ability to migrate between the spots (sites) of a given landscape, the latter is somehow compared to a porous environment in which each living species moves more or less easily. In other words, percolation here makes it possible to assess the relationship between the migratory nature of species and the permissiveness of any ecosystem.
